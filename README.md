@@ -1,4 +1,4 @@
-### Prazer, Giovanni Chitarrelli 👋
+### 👋  Olá, eu sou o Giovanni, um desenvolvedor full stack apaixonado pelo que faz!
 
 <div>
   <a href="https://github.com/giovannichitarrelli">
