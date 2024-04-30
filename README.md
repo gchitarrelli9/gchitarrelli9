@@ -1,11 +1,12 @@
 <h1>👋 &nbsp;Olá, eu sou o Giovanni, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-  <a href="book.com/giovannichitarrelli" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gchitarrelli9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:giovanni.chitarrelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovannichitarelli-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
+<a href="https://instagram.com/gchitarrelli9"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/giovannichitarelli-45875016a"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:giovanni.chitarrelli@gmail.com"><img src="https://img.shields.io/badge/-giovanni.chitarrelli@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+    
+  <p/>
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 21 anos de idade, quando queria criar uma plataforma de dropshipping. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
@@ -17,14 +18,23 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Giovanni Chitarrelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannichitarrelli&show_icons=true&theme=dark)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannichitarrelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannichitarrelli&layout=compact&langs_count=7&theme=dark"/>
 ![Snake animation](https://github.com/giovannichitarrelli/giovannichitarrelli/blob/output/github-contribution-grid-snake.svg)
     
