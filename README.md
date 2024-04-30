@@ -35,6 +35,5 @@
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Giovanni Chitarrelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannichitarrelli&show_icons=true&theme=dark)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannichitarrelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 ![Snake animation](https://github.com/giovannichitarrelli/giovannichitarrelli/blob/output/github-contribution-grid-snake.svg)
     
