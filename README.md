@@ -2,7 +2,7 @@
 <p align="center">
 
 <a href="https://instagram.com/gchitarrelli9"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/giovannichitarelli-45875016a"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/giovannichitarelli-45875016a"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:giovanni.chitarrelli@gmail.com"><img src="https://img.shields.io/badge/-giovanni.chitarrelli@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
     
